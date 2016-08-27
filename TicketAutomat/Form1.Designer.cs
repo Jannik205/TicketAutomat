@@ -50,6 +50,7 @@
             // 
             // label2
             // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(13, 271);
             this.label2.Name = "label2";
